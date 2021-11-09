@@ -4,7 +4,6 @@ This portfolio is a small project using HTML, CSS, and Bootstrap. I will be usin
 
 [Visit Demo Website Hosted by Heroku](https://portfolio-celeste.herokuapp.com/)
 
-![image](file://https://github.com/Celestevk/Portfolio/blob/main/img/Screen%20Shot%202021-11-07%20at%204.29.30%20AM.png)
 <img src="https://github.com/Celestevk/Portfolio/blob/main/img/Screen%20Shot%202021-11-07%20at%204.29.30%20AM.png" width="500">
 
 ## Technologies Used
