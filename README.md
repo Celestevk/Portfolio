@@ -3,6 +3,7 @@
 This portfolio is a small project using HTML, CSS, and Bootstrap. I will be using this to show case my projects.
 
 [Live Heroku Deployment] (https://portfolio-celeste.herokuapp.com/)
+[Visit Demo Website Hosted by Heroku](https://portfolio-celeste.herokuapp.com/)
 
 ![image](file:///Users/celeste/Desktop/Screen%20Shot%202021-11-07%20at%204.29.30%20AM.png)
 
